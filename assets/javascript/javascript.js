@@ -67,4 +67,3 @@ $(document).on("click", "button", function() {
 
 renderButtons();
 
-// console.log(superheroes);
