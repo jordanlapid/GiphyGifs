@@ -8,7 +8,7 @@ function renderButtons (){
 
 	for(var i = 0; i < superheroes.length; i++){
 		var createButton = $("<button>");
-		createButton.addClass("characters btn btn-default");
+		createButton.addClass("characters btn btn-primary");
 		createButton.attr("char-name",superheroes[i]);
 		createButton.text(superheroes[i]);
 		$("#buttons-view").append(createButton);	
