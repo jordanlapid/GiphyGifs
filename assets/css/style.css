@@ -1,0 +1,11 @@
+.container {
+	width:1500px;
+}
+
+.jumbotron{
+	text-align:center;
+}
+
+button{
+	margin-left:20px;
+}
