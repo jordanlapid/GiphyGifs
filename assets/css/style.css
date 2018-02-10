@@ -25,3 +25,7 @@ body{
 	margin-top:15px;
 	margin-bottom:15px;
 }
+
+.left {
+	margin-left: 0;
+}
